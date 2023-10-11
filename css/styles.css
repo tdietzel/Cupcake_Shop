@@ -1,0 +1,17 @@
+body {
+    background-color: pink;
+}
+
+.flashy {
+    color:red;
+    font-style:italic;
+    font-weight:900;
+}
+
+#best {
+    background-color: aqua;
+}
+
+h1 {
+    margin:0;
+}
